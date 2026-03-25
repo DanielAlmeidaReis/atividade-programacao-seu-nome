@@ -1,4 +1,4 @@
-# atividade-programacao-seu-nome
+# Engenharia_de_prompt
 ### Prompt Mestre Inicial
 "Escreva um programa em código python que funcione como uma calculadora"
 ### Variação 1
